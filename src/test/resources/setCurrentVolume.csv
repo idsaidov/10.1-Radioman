@@ -1,0 +1,5 @@
+Normal volume, 5, 5
+Minimum volume, 0, 0
+Maximum volume, 10, 10
+Below Limit, -1, 0
+Over Limit, 11, 0
